@@ -61,5 +61,5 @@ Our experiments showed significant improvements with advanced deep learning meth
 
 
 ## Project Contributors
-Mahdi Chalaki – Algorithm implementation, report writing, and presentation.
-Masoud Jafaripour – Literature review, dataset analysis, and report writing.
+- Mahdi Chalaki – Algorithm implementation, report writing, and presentation.
+- Masoud Jafaripour – Literature review, dataset analysis, and report writing.
