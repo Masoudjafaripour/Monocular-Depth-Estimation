@@ -1,4 +1,4 @@
-# ECE 740: Computer Vision in Robotics - Monocular Depth Estimation
+# ECE 740: Computer Vision in Robotics - Monocular Depth Estimation 
 
 This repository contains the coursework and project for the graduate-level course **"ECE 740: Computer Vision in Robotics"** at the **University of Alberta**. The project focused on **Monocular Depth Estimation (MDE) from a single RGB image**, using deep learning techniques to predict depth maps without additional sensors.
 
